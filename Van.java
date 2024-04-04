@@ -14,4 +14,13 @@ public class Van extends GroundTransportation{
     public void setPackages(int packages){
         this.packages = packages;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder();
+
+        sb.append(String.format("\n%15s: %s\n", "Numero de pacotes:", this.packages));
+        sb.append(String.format("\n%15s: %s\n", "Matricula:", getLicensePlate()));
+        return sb.toString();
+    }
 }

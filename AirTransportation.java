@@ -1,8 +1,8 @@
 public class AirTransportation extends Transport{
 
     public static final double FEES = 0.04;
-    String name;
-    int numberOfContainers;
+    private String name;
+    private int numberOfContainers;
 
     public AirTransportation(String name, int numberOfContainers)
     {

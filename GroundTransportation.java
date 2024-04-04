@@ -1,7 +1,7 @@
 public class GroundTransportation extends Transport{
 
     public final static double FEES = 0.03;
-    String licensePlate;
+    private String licensePlate;
 
     public GroundTransportation(String licensePlate)
     {
