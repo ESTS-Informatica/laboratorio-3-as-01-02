@@ -14,6 +14,6 @@ public class GroundTransportation extends Transport{
     public void setLicensePlate(String licensePlate){
         this.licensePlate = licensePlate;
     }
-    //
+
 }
 
