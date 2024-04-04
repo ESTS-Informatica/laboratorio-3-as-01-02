@@ -1,5 +1,6 @@
 public class AirTransportation extends Transport{
 
+    public static final FEES = 0.04;
     String name;
     int numberOfContainers;
 
@@ -13,8 +14,16 @@ public class AirTransportation extends Transport{
         return this.name;
     }
 
+    public double getPrice() {
+        return this.price;
+    }
+
     public int getNumberOfContainers(){
         return this.numberOfContainers;
+    }
+
+    public void setPrice(double price){
+        this.price = price;
     }
 
     public void setName(String name) {
