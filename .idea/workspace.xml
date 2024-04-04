@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcef54f7-d9b7-4130-91e1-804e440d4d3a" name="Changes" comment="Nivel 3">
-      <change afterPath="$PROJECT_DIR$/ShippingCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AirTransportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AirTransportation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GroundTransportation.java" beforeDir="false" afterPath="$PROJECT_DIR$/GroundTransportation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lorry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lorry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/Van.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "JUnit.GroundTransportationTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,12 +53,27 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/POO/Trabalhos_e_Cenas/laboratorio-3-as-01-02/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="laboratorio-3-as-01-02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
